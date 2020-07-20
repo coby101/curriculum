@@ -19,6 +19,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [View Coby's solution](https://github.com/coby101/odin_project/blob/master/tic_tac_toe.rb) - [or Click 'run' on repl.it](https://repl.it/@coby101/odinproject-1#tic_tac_toe.rb)
 * [Guhan's Solution](https://github.com/guhan29/Ruby-OOP/blob/master/tic_tac_toe.rb) - [View in repl.it](https://repl.it/@guhan29/tictactoe#main.rb)
 * [risanto's Solution](https://github.com/risanto/ruby-programming/blob/master/6_tic-tac-toe.rb) - [View in repl.it](https://repl.it/@Risanto/tic-tac-toe#main.rb)
 * [Witah Georjane's Solution](https://github.com/Georjane/Tic-Tac-Toe-Game) - [View in repl.it](https://repl.it/join/eegkcbpi-witahgeorjane)
